@@ -1,0 +1,85 @@
+h1 {
+    text-align: center;
+    width: fit-content;
+    padding-bottom: 20px;
+    font-size: 45px;
+}
+
+img {
+    float: right;
+    padding-left: 20px;
+}
+
+.tekst-kera {
+    width: 800px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 15px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.keric {
+    float: left;
+    font-size: x-large;
+}
+
+blockquote {
+    background: lavenderblush;
+    border-left: 20px blue;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    text-align: center;
+    font-size: 18px;
+}
+
+blockquote:before {
+    color: lightcoral;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+}
+
+#navigacija {
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin-top: 0px;
+    padding-top: 0px;
+    left: 950px;
+}
+
+a.na {
+    color: black;
+    position: relative;
+    font-size: x-large;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+header {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    position: relative;
+}
+
+a.na:hover {
+    color: hotpink;
+}
+
+#str {
+    color: black;
+}
+
+#str:hover {
+    color: hotpink;
+}
+
+nav {
+    width: 100%;
+}

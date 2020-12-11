@@ -1,0 +1,40 @@
+header {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    position: relative;
+}
+
+#navigacija {
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin-top: 0px;
+    padding-top: 0px;
+    left: 950px;
+}
+
+a.na {
+    color: black;
+    position: relative;
+    font-size: x-large;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a.na:hover {
+    color: hotpink;
+}
+
+#str {
+    color: black;
+}
+
+#str:hover {
+    color: hotpink;
+}
+
+nav {
+    width: 100%;
+}
