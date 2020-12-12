@@ -26,6 +26,7 @@ a.na {
 body {
     margin-left: 150px;
     margin-right: 70px;
+    background-color: rgb(255, 246, 241);
 }
 
 a.na:hover {

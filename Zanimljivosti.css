@@ -23,6 +23,10 @@ a.na {
     padding-right: 10px;
 }
 
+body {
+    background-color: rgb(255, 246, 241);
+}
+
 a.na:hover {
     color: hotpink;
 }
