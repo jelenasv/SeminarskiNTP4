@@ -41,13 +41,6 @@ h6 {
 }
 
 
-/* visited link */
-
-a:visited {
-    color: goldenrod;
-}
-
-
 /* mouse over link */
 
 a:hover {
