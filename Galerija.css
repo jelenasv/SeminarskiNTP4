@@ -15,6 +15,21 @@ header {
     left: 810px;
 }
 
+.goreLevo {
+    position: absolute;
+    top: -27px;
+    left: 17px;
+    font-size: 28px;
+}
+
+h6 {
+    position: absolute;
+    top: 6px;
+    left: 35px;
+    font-size: 16px;
+    font-style: italic;
+}
+
 a.na {
     color: black;
     position: relative;
