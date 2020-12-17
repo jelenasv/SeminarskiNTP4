@@ -65,7 +65,7 @@ a:active {
     left: 944px;
 }
 
-a.na {
+a.a {
     color: black;
     position: relative;
     font-size: x-large;
@@ -80,15 +80,7 @@ header {
     position: relative;
 }
 
-a.na:hover {
-    color: hotpink;
-}
-
-#str {
-    color: black;
-}
-
-#str:hover {
+a.a:hover {
     color: hotpink;
 }
 
